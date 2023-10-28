@@ -211,7 +211,46 @@ span:hover{
     
   }
 
+.img1 img{
+  width: 300px;
+  height: 400px;
+  transition-duration: 1s;
+}
 
+.img1 img:hover{
+  width: 310px;
+  height: 410px;
+}
 
-  
-  
+.img2 img{
+  width: 290px;
+  height:370px;
+  transition-duration: 1s;
+}
+
+.img2 img:hover{
+  width: 300px;
+  height:380px;
+}
+
+.img3 img{
+  width: 200px;
+  height: 250px;
+  transition-duration: 1s;
+}
+
+.img3 img:hover{
+  width: 210px;
+  height: 260px;
+}
+
+.img4 img{
+  width: 200px;
+  height: 250px;
+  transition-duration: 1s;
+}
+
+.img4 img:hover{
+  width: 210px;
+  height:260px;
+}
